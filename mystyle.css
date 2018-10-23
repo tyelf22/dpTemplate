@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0% 20%;
     background-color: white;
-    font-family: helvetica;
+    font-family: 'Raleway', sans-serif;
 }
 
 header h1 {
@@ -23,7 +23,7 @@ header h1 {
 
 .overview p {
     font-weight: 3;
-    font-size: 15px;
+    font-size: 20px;
     margin: 1px 50px 10px 50px;
 }
 
@@ -37,6 +37,12 @@ header h1 {
 hr {
     border: 0px white;
 }
+
+.icon {
+    display: inline;
+    padding-left: 190px;
+}
+
 .def h2 {
     font-weight: 5;
     font-size: 20px;
